@@ -1,10 +1,10 @@
 # zaPRETtElegrAm
 
-Если в Telegram не грузятся картинки, zaPRETtElegrAm чинит канал без VPN-клиента.
+Обновлённая версия для Telegram в текущих условиях. Быстрее, стабильнее, надежнее
 
 Если в Telegram не грузятся картинки, zaPRETtElegrAm чинит канал без VPN-клиента. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/ThunderCore66/zaPRETtElegrAm/releases/latest
-Код: https://github.com/ThunderCore66/zaPRETtElegrAm
+Релиз: https://github.com/thundercore66/zaPRETtElegrAm/releases/latest
+Код: https://github.com/thundercore66/zaPRETtElegrAm
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/ThunderCore66/zaPRETtElegrAm
+Страница: https://github.com/thundercore66/zaPRETtElegrAm
